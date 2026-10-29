@@ -20,13 +20,13 @@
       }
     },
     {
-      "name": "FixupX",
-      "emojiId": "1554261675522134076",
+      "name": "Mugifix",
+      "emojiId": "1500947683395899542",
       "domains": ["fixupx.com", "xfixup.com"],
       "provider": "twitter",
       "favicon": "https://abs.twimg.com/favicons/twitter.3.ico",
       "redirect": "https://github.com/FxEmbed/FxEmbed",
-      "color": "#6363ff",
+      "color": "#FFB6C1",
       "activityIcons": {
         "default": "https://assets.fxembed.com/logos/fixupx32.png",
         "svg": "https://assets.fxembed.com/logos/fixupx.svg",
