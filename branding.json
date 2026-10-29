@@ -1,8 +1,8 @@
 {
   "zones": [
     {
-      "name": "FxTwitter",
-      "emojiId": "1554261513970385007",
+      "name": "Mugifix",
+      "emojiId": "1500947683395899542",
       "default": true,
       "domains": ["fxtwitter.com", "twittpr.com"],
       "provider": "twitter",
