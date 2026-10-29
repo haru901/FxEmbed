@@ -24,7 +24,7 @@
       "emojiId": "1500947683395899542",
       "domains": ["fixupx.com", "xfixup.com"],
       "provider": "twitter",
-      "favicon": "https://abs.twimg.com/favicons/twitter.3.ico",
+      "favicon": "https://raw.githubusercontent.com/haru901/FxEmbed/77dce7a86f8bab0d3eff4a972d06e24b64679fb4/Pasted%20image.png",
       "redirect": "https://github.com/FxEmbed/FxEmbed",
       "color": "#FFB6C1",
       "activityIcons": {
